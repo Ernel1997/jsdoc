@@ -14,7 +14,7 @@
     "url": "https://github.com/jsdoc/jsdoc"
   },
   "dependencies": {
-    "@babel/parser": "^7.15.7",
+    "@babel/parser": "^7.25.3",
     "@jsdoc/cli": "^0.2.6",
     "@jsdoc/core": "^0.4.1",
     "@jsdoc/parse": "^0.1.2",
@@ -28,10 +28,10 @@
     "escape-string-regexp": "^4.0.0",
     "lodash": "^4.17.21",
     "open-sans-fonts": "^1.6.2",
-    "requizzle": "^0.2.3",
+    "requizzle": "^0.2.4",
     "strip-bom": "^4.0.0",
     "strip-json-comments": "^3.1.1",
-    "taffydb": "2.6.2"
+    "taffydb": "2.7.3"
   },
   "engines": {
     "node": ">=v14.17.6"
